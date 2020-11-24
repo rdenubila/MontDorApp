@@ -1,0 +1,19 @@
+
+
+<ion-content>
+
+  <div class="back" [routerLink]="['/home']">
+    <ion-icon name="chevron-back-outline"></ion-icon>
+  </div>
+
+  <div class="panorama"></div>
+
+  <div class="pagination">
+    <a (click)="changePanorama(i)" *ngFor="let item of getData(); let i=index"  [ngStyle]="{'background-image': getFile(i) }" [ngClass]="{'sel': sel==i}" >
+      <span>
+        {{ item.label }}
+      </span>
+    </a>
+  </div>
+
+</ion-content>

@@ -1,0 +1,170 @@
+{
+    "pilotis": [
+        {
+            "file": "1 GUARITA.jpg",
+            "label": "GUARITA"
+        },
+        {
+            "file": "2 TERRAÇO ENTRADA.jpg",
+            "label": "TERRAÇO ENTRADA"
+        },
+        {
+            "file": "3 TERRAÇO HALL DE ENTRADA.jpg",
+            "label": "TERRAÇO HALL DE ENTRADA"
+        },
+        {
+            "file": "4 HALL DE ENTRADA.jpg",
+            "label": "HALL DE ENTRADA"
+        },
+        {
+            "file": "5 PET PLACE.jpg",
+            "label": "PET PLACE"
+        },
+        {
+            "file": "6 PLAYGROUND.jpg",
+            "label": "PLAYGROUND"
+        },
+        {
+            "file": "7 QUADRA.jpg",
+            "label": "QUADRA"
+        },
+        {
+            "file": "8 VARANDA KIDS.jpg",
+            "label": "VARANDA KIDS"
+        },
+        {
+            "file": "9 KIDS.jpg",
+            "label": "KIDS"
+        },
+        {
+            "file": "10 VARANDA SALÃO DE FESTAS.jpg",
+            "label": "VARANDA SALÃO DE FESTAS"
+        },
+        {
+            "file": "11 SALÃO DE FESTAS.jpg",
+            "label": "SALÃO DE FESTAS"
+        },
+        {
+            "file": "12 HOME SALÃO DE FESTAS.jpg",
+            "label": "HOME SALÃO DE FESTAS"
+        },
+        {
+            "file": "13 BAR SALAO DE FESTAS.jpg",
+            "label": "BAR SALAO DE FESTAS"
+        },
+        {
+            "file": "14 HALL DE ELEVADORES.jpg",
+            "label": "HALL DE ELEVADORES"
+        },
+        {
+            "file": "15 ACADEMIA.jpg",
+            "label": "ACADEMIA"
+        },
+        {
+            "file": "16 JOGOS.jpg",
+            "label": "JOGOS"
+        },
+        {
+            "file": "17 TERRAÇO ESPAÇO GOURMET.jpg",
+            "label": "TERRAÇO ESPAÇO GOURMET"
+        },
+        {
+            "file": "18 ESPAÇO GOURMET.jpg",
+            "label": "ESPAÇO GOURMET"
+        },
+        {
+            "file": "19 TERRAÇO PÉRGOLA.jpg",
+            "label": "TERRAÇO PÉRGOLA"
+        },
+        {
+            "file": "20 DECK PISCINA.jpg",
+            "label": "DECK PISCINA"
+        },
+        {
+            "file": "21 PRAINHA PISCINA.jpg",
+            "label": "PRAINHA PISCINA"
+        },
+        {
+            "file": "22 SAUNA.jpg",
+            "label": "SAUNA"
+        },
+        {
+            "file": "23 DESCANSO SAUNA.jpg",
+            "label": "DESCANSO SAUNA"
+        }
+    ],
+    "apartamento": [
+        {
+            "file": "0 HALL.jpg",
+            "label": "HALL"
+        },
+        {
+            "file": "1 LAVABO.jpg",
+            "label": "LAVABO"
+        },
+        {
+            "file": "2 SALA DE ESTAR.jpg",
+            "label": "SALA DE ESTAR"
+        },
+        {
+            "file": "3 SALA DE TV.jpg",
+            "label": "SALA DE TV"
+        },
+        {
+            "file": "4 VARANDA.jpg",
+            "label": "VARANDA"
+        },
+        {
+            "file": "5 COZINHA 01.jpg",
+            "label": "COZINHA 01"
+        },
+        {
+            "file": "6 COZINHA 02.jpg",
+            "label": "COZINHA 02"
+        },
+        {
+            "file": "7 ÁREA DE SERVIÇO.jpg",
+            "label": "ÁREA DE SERVIÇO"
+        },
+        {
+            "file": "8 BANHO SERVIÇO.jpg",
+            "label": "BANHO SERVIÇO"
+        },
+        {
+            "file": "9 CIRCULAÇÃO.jpg",
+            "label": "CIRCULAÇÃO"
+        },
+        {
+            "file": "10 SEMI SUITE 01.jpg",
+            "label": "SEMI SUITE 01"
+        },
+        {
+            "file": "11 SEMI SUITE 02.jpg",
+            "label": "SEMI SUITE 02"
+        },
+        {
+            "file": "12 BANHO SEMI SUITE.jpg",
+            "label": "BANHO SEMI SUITE"
+        },
+        {
+            "file": "13 SUITE 01.jpg",
+            "label": "SUITE 01"
+        },
+        {
+            "file": "14 BANHO SUITE 01.jpg",
+            "label": "BANHO SUITE 01"
+        },
+        {
+            "file": "15 SUITE MASTER.jpg",
+            "label": "SUITE MASTER"
+        },
+        {
+            "file": "16 CLOSET.jpg",
+            "label": "CLOSET"
+        },
+        {
+            "file": "17 BANHO MASTER.jpg",
+            "label": "BANHO MASTER"
+        }
+    ]
+}

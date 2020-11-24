@@ -1,0 +1,40 @@
+ion-content {
+  --background: #000;
+}
+
+.fachada {
+  position: absolute;
+  width: 50%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: url("../../assets/fachada.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.menu { 
+  position: absolute;
+  width: 50%;
+  left: 0;
+  bottom: 0;
+  text-align: right;
+  padding: 2rem;
+
+  .logo {
+    padding-bottom: 2.5rem;
+  }
+
+  ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    a {
+      color: #FFF;
+      font-size: 18px;
+      text-decoration: none;
+      display: block;
+      padding: .5rem 0;
+    }
+  }
+}
